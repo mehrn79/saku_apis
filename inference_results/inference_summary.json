@@ -1,0 +1,17 @@
+{
+  "spleen": {
+    "has_anomaly": true,
+    "suspicious_slices": [
+      "features/000007_03_01/spleen/040_OUT_crop.pt",
+      "features/000007_03_01/spleen/043_OUT_crop.pt",
+      "features/000007_03_01/spleen/045_OUT_crop.pt",
+      "features/000007_03_01/spleen/048_OUT_crop.pt",
+      "features/000007_03_01/spleen/050_OUT_crop.pt",
+      "features/000007_03_01/spleen/052_OUT_crop.pt",
+      "features/000007_03_01/spleen/053_OUT_crop.pt",
+      "features/000007_03_01/spleen/054_OUT_crop.pt",
+      "features/000007_03_01/spleen/055_OUT_crop.pt",
+      "features/000007_03_01/spleen/056_OUT_crop.pt"
+    ]
+  }
+}

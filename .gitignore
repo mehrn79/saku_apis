@@ -1,0 +1,8 @@
+venv
+checkpoints/
+**/__pycache__/
+temp/
+static/
+output/
+uploads/
+.env
